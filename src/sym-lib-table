@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Model-U-GCC-rescue)(type Legacy)(uri ${KIPRJMOD}/Model-U-GCC-rescue.lib)(options "")(descr ""))
-)
